@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Certification <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" align="right" width="120" height=110 />
+# Google Data Analytics Professional Certification <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" align="right" width="120" height="110" />
 
 ## 📍 About this Professional Certificate
 This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
